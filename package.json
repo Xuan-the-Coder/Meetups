@@ -1,0 +1,22 @@
+{
+  "name": "meetups",
+  "version": "1.0.0",
+  "description": "a meetup web application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xuan-the-Coder/Meetups.git"
+  },
+  "author": "Xuan Wang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Xuan-the-Coder/Meetups/issues"
+  },
+  "homepage": "https://github.com/Xuan-the-Coder/Meetups#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
